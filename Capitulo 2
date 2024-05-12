@@ -1,0 +1,132 @@
+CAPÍTULO II: Marco Teórico
+
+Introducción:
+
+En la era digital, la cantidad de datos generados y almacenados ha alcanzado proporciones masivas, lo que ha dado lugar al concepto de Big Data. Estos datos son una fuente invaluable de información que puede ser utilizada para mejorar la toma de decisiones estratégicas en diversas áreas, incluida la comunicación. Sin embargo, el manejo efectivo del Big Data requiere el uso de tecnologías y enfoques específicos que difieren de los métodos tradicionales de bases de datos.
+
+En este capítulo, exploraremos en profundidad los conceptos de Big Data y comunicación estratégica. Comenzaremos definiendo Big Data y discutiendo sus características principales, conocidas como las "siete V del Big Data": volumen, variedad, velocidad, veracidad, viabilidad, visualización y valor. Luego, analizaremos el proceso de Big Data, que abarca la recopilación, almacenamiento, procesamiento y análisis de datos.
+
+Posteriormente, nos centraremos en la comunicación estratégica y su importancia en el entorno empresarial actual. Exploraremos las diferentes dimensiones de la estrategia, desde la obtención de metas hasta la anticipación y adaptación en un contexto global en constante cambio. Además, examinaremos las áreas en las que las organizaciones desarrollan el concepto de comunicación estratégica, como el gobierno corporativo, el marketing, las relaciones públicas, la tecnología de la comunicación y las campañas de marketing social o de información.
+
+Luego, exploraremos el papel de las relaciones públicas en el ámbito de la comunicación estratégica. Discutiremos la importancia de comprender y gestionar adecuadamente los públicos objetivo, así como la necesidad de estar preparados para enfrentar crisis y situaciones adversas. Además, examinaremos cómo el análisis de Big Data puede aplicarse a la comunicación corporativa, utilizando diferentes tipos de análisis, como el descriptivo, diagnóstico, predictivo y prescriptivo.
+
+En resumen, este capítulo abordará los conceptos de Big Data y comunicación estratégica, explorando cómo el manejo efectivo de los datos y la implementación de estrategias de comunicación pueden mejorar la toma de decisiones y el logro de metas organizacionales. También se discutirán las áreas en las que la comunicación estratégica se aplica, como las relaciones públicas, y cómo el análisis de Big Data puede ser utilizado en el ámbito de la comunicación corporativa.
+
+
+
+Big Data, que son y cómo se gestiona.
+
+Este inusitado conjunto de datos que son almacenados, ha sido denominada Big Data y supone un fuerte aditamento para la comunicación estratégica. Los métodos tradicionales de bases de datos resultan ineficientes para gestionarlos y aparecen nuevas tecnologías de convenio. El fin Big Data casi no hace mención al bulto de datos, suerte a las tecnologías asociadas a la captación, filial y visibilidad de los mismos; y la celeridad de paso y procesamiento. Pero el Big Data recoge todo rastro de información, enormes cantidades de datos estructurados, semi-estructurados y nunca estructurados (señales de móvil, emails, logs, sensores, mensajes en redes sociales…) y en plazo real, lo que lleva a efectuar nuevas preguntas diferentes a las propuestas para tantear otros campos.
+
+Se empezó a hablar de las cuatro V del big data - volumen, variedad, velocidad y precisión, pero se establecieron tres más: viabilidad, visualización y valor (IIC, 2016):
+
+Volumen: se refiere a la cantidad de datos que se generan, indica y se mantienen y tiene por finalidad transformarlos en actuaciones útiles para las distintas entidades que los gestionan. Cuando se habla de big data, no se refiere a una cantidad específica, sino que se suele utilizar cuando se habla de petabytes y exabytes.
+
+
+Gigabyte= 109 Terabyte= 1012 Petabyte = 1015 Exabyte = 1018
+
+Variedad: Se refiere a la naturaleza de los datos, esto es, a las formas, tipos y fuentes en las que se registran los datos. Las bases de datos tradicionales gestionaban datos estructurados (en filas y columnas), pero el Big Data añade a éstos, los semi-estructurados (software, informes…) y no estructurados, donde caben todo tipo de documentos de texto, vídeos e imágenes generados por las redes sociales, mails, foros y chats… Los mismos son generados en todos nuestros dispositivos: teléfonos móviles, vídeo, sistemas GPS, sensores digitales, medidores eléctricos…
+Velocidad: es la rapidez que exige el procesamiento de esa información por las constantes interconexiones que se generan. Hay procesos que exigen que la monitorización y el tratamiento de la información se realice en tiempo real.
+Veracidad: hace referencia al grado de credibilidad, a la fiabilidad de la información.
+Viabilidad: las entidades deben ser realistas en las necesidades técnicas y humanas necesarias para proporcionar un uso eficaz de los datos, estableciendo recursos personalizados en cada proyecto.
+Visualización de datos: el uso de herramientas de visualización es esencial para obtener información sobre los datos.
+Valor del dato: Los datos deben convertirse en información útil para la toma de decisiones de la empresa. Por tanto, el tratamiento de estos datos debe realizarse correctamente.
+
+El proceso de big data se divide en etapas de recopilación, almacenamiento, procesamiento y análisis de datos. Lo primero que hay que tener claro al hacer un proyecto de este tipo no es qué datos necesito analizar, sino qué problema quiero resolver. Y para ello, en primer lugar se pueden clasificar los tipos de datos Big Data (Barranco, 2012):
+
+Web y Social Media: se refiere al contenido de las redes sociales, Facebook, Twitter, Linkedin, etc.
+Máquina a máquina: Son tecnologías de conexión de diferentes dispositivos mediante sensores o manómetros que registran determinadas variables (presión, velocidad, temperatura, etc.). Esta información se transfiere a otros programas para convertirla en información.
+Big Transaction Data: Estos son los datos estructurados y semiestructurados relacionados con el mantenimiento de registros de llamadas y cuentas (CDR).
+Biometría: Datos biométricos como escaneo de retina, huella dactilar, reconocimiento facial, genética, etc. Es muy importante para los organismos encargados de hacer cumplir la ley.
+
+Dependiendo de la naturaleza de la entidad y de los intereses generales y específicos que impulsan el proceso de big data, se utilizan diferentes tecnologías para su almacenamiento, procesamiento y gestión. Las tecnologías son software que recopila, transforma, procesa y analiza datos y pueden ser libres o propietarios. Algunos de estos son (Hernández, Duque y Moreno, 2017):
+Hadoop: librería de Apache.
+MapReduce: utilizado inicialmente por Google para solucionar el problema de Page Rank.
+HBase: también desarrollada por Apache y que se utiliza para acceder a lectura y escritura de datos en tiempo real.
+Cassandra: también de Apache y utilizada para tratar problemas de datos críticos en el hardware o en la nube. Twitter es una de las empresas que la utiliza dentro de su plataforma.
+Mahout: también de Apache, para la creación de aplicaciones de Machine Learning.
+Jaql: donado por IBM a la comunidad de software libre
+Lucene: proyecto de Apache que realiza búsquedas sobre textos
+
+La funcionalidad de estos datos viene cuando se extrae valor de ellos y es aquí donde entra en juego el concepto de ciencia de datos o ciencia de datos. Este campo interdisciplinario, que no solo se ocupa de grandes cantidades de datos, incluye métodos, procesos y modelos científicos para obtener valor agregado de los datos. Incluye métodos como el análisis descriptivo, la estadística, la minería de datos o data mining y el aprendizaje automático o machine learning (Hernández, Duque y Moreno, 2017).
+
+
+La Comunicación Estratégica
+
+El concepto de estrategia se utiliza frecuentemente en al menos los siguientes tres sentidos:
+
+Para designar los medios empleados en la obtención de cierto fin;
+Para designar la manera en la cual una persona actúa, trata de prever cuál será la acción de los demás y lo que considera que los demás piensan que sería su acción;
+Para designar los procedimientos usados en una situación de confrontación con el fin de privar al oponente de sus medios de lucha y obligarlo a abandonar el combate;
+
+En cada uno de ellos, se basa en el hecho de que dos o más intereses se contradicen, o en todo caso, algo o alguien es una contradicción o un obstáculo para la derrota de la meta.
+
+Pero si consideramos la estrategia como una capacidad humana que nos permite elegir entre alternativas de acción y reajustar nuestra acción relacional, debemos abandonar su concepto desde el punto de vista del conflicto y tratar de verla como la práctica de ver oportunidad y expresión entre liderazgo. diferentes imaginaciones y racionalidad de las personas.
+
+La comunicación estratégica es un conjunto de enfoques, métodos y técnicas que se utilizan en última instancia para monitorear las principales tendencias sociales, políticas, económicas y tecnológicas para facilitar la anticipación en la comunicación organizacional.
+
+
+Esta práctica permite a las organizaciones elaborar estrategias en términos relacionales, dejando de lado las contradicciones simples y aprendiendo y adaptándose continuamente en un contexto global donde las 'crisis' y los 'cambios' están siempre presentes, evolucionan y sobreviven a los procesos. Se alimentan unos de otros.
+
+Hallahan (2007) examina la naturaleza del concepto de comunicación estratégica, basándose en parte en las opiniones de un grupo de editores de revistas y académicos en el campo de la comunicación internacional. Los autores concluyen que existen seis áreas, no limitadas al marketing, en las que las organizaciones desarrollan el concepto de comunicación estratégica. gobierno corporativo, marketing en sí mismo, relaciones públicas, tecnología de la comunicación, política de comunicación y campañas de marketing social o de información.
+
+Por tanto, a partir de todas estas definiciones, podemos explicar dos aspectos que contribuyen a explicar el concepto de comunicación estratégica. Por un lado, la comunicación estratégica no es posible si la entendemos únicamente al servicio del marketing corporativo. Por otro lado, la comunicación estratégica es la única forma de administrar los recursos intangibles de una organización. Es decir, entender que las organizaciones deben gestionar de forma integrada todos sus recursos, incluidos los activos intangibles como la imagen, la reputación, la marca, etc., no exige el uso de la comunicación (según el tipo: comercial, corporativa o interna). Pero como una herramienta separada en sí misma, pero al servicio de la estrategia para lograr objetivos, lo que lleva a la comunicación estratégica.
+
+El concepto de comunidad es uno de los pilares de las relaciones públicas y es reconocido como tal y abordado en la mayoría de libros y artículos relacionados con este tema. Es importante que las empresas conozcan sus grupos objetivo y los definan correctamente. A pesar de este hallazgo, las audiencias no han sido estudiadas en profundidad. Grunig y Repper (1992:128) afirman que el estudio de la esfera pública en las relaciones públicas ha sido superficial sin examinar su origen, formación y motivaciones subyacentes. Moffitt (1992:19) afirma que una de las razones importantes para el análisis de relaciones públicas basado en niveles es que la investigación se ha centrado principalmente en los procesos de creación de mensajes de relaciones públicas y el papel del profesional como administrador del programa de comunicaciones.
+
+En algunos casos las empresas se enfrentan a una crisis y la solución depende de su buena preparación. En este punto, es importante prever posibles escenarios de crisis que puedan afectar la organización de la sociedad. De clientes, empleados, competencia e incluso los medios de comunicación. Con esto en mente, es importante tener un plan de acción para estos escenarios.
+
+Cuando, por ejemplo, una empresa es cuestionada por los medios de comunicación, debido a una denuncia hecha por un cliente, guardar silencio es la peor opción, porque se está abriendo espacio a la especulación y amplificación de la noticia, cuestión que rápidamente irá afectando a la reputación de la marca.
+
+Por lo tanto, responder con prontitud a una invitación, brindar una explicación del caso, disculparse, sospechar errores y tomar medidas correctivas son comportamientos que las personas valoran mucho. Es importante comprender que las marcas están dirigidas por personas y que pueden ocurrir errores.
+
+La comunicación estratégica es un área que necesita estar al tanto de todo lo que sucede en la organización. Necesita ser consciente de sus procesos y acciones y consultar juntos cómo crear las mejores relaciones con las personas, no necesariamente con un objetivo comercial, sino con un significado humano. El significado humano que conecta los valores de la empresa con la forma en que interactúa con todo su entorno. Pero siempre, como parte de una estrategia.
+
+Según Bunte & Gribergue (2014), estas actividades de comunicación corporativa se pueden dividir en minería de datos para este concepto de comunicación, para lo cual se realiza una tabla de comparaciones entre los diferentes tipos de análisis propuestos por los autores.
+
+Tabla 1. Tipos de análisis según autores. Proceso de análisis del big data aplicado a la comunicación corporativa.
+
+
+Análisis Descriptivo
+Análisis Diagnóstico
+Análisis Predictivo
+Análisis Prescriptivo
+Descripción de datos
+Descripción de las relaciones casuales
+Predicción de los datos futuros
+Analizar las recomendaciones 
+¿Qué ha sucedido?
+¿Por qué se comunicó esto?
+¿Qué sucederá?
+¿Cuáles son las recomendaciones a gestionar?
+¿Que han comunicado los interesados ‘
+¿Cuáles son los motivos?
+¿Qué comunicación habrá entre las partes?
+¿Qué debe comunicar la organización?
+
+Fuente: Elaboración propia a partir de Bunte & Krohn-Gribergue, 2014.
+  
+Las Relaciones Públicas.
+
+Se entiende que la gerencia de comunicación es una interpretación amplia y comprehensiva, que engloba muchos principios entre los que están las conocidas públicas; y añaden que el fin conocidos públicas, que consideran obsoleto, nada más designa una tono de técnicas básicas que se desarrollan internamente de una planificación directiva de amplio alcance. Por su parte, otros investigadores defienden que conocidos públicos y gerencia de comunicación hacen referencia, por tanto, a funciones similares. Para estos autores, las conocidos públicas 
+
+Lo que parece claro es que no se puede defender la noción de relaciones públicas si no se demuestra que esta disciplina cumple hoy las funciones necesarias para gestionar eficazmente las relaciones de una organización y sus públicos, como tampoco es posible intentar llevar la dirección de comunicación al ámbito académico si no se explica claramente su origen, sus fundamentos y su relación con otras disciplinas. Por este motivo, tanto si se pretende recuperar el término relaciones públicas como si se pretende incentivar e incorporar al ámbito académico la idea de dirección de comunicación, parece oportuno y necesario reflexionar en torno a la fundamentación de ambos conceptos, tratando de aclarar su origen, evolución y posibles concomitancias; y ése es el objetivo prioritario de este estudio. 
+
+Para ello se ha revisado la evolución histórica de las relaciones públicas, analizando el modo en que esta disciplina ha ido incorporando elementos que la han transformado en una función directiva y que la han ido aproximando a lo que hoy conocemos como dirección de comunicación. Por otra parte, se ha analizado el concepto de dirección de comunicación partiendo de la literatura publicada en España desde el año 1993, y se ha tratado de analizar su desarrollo, su alcance y sus futuras posibilidades de crecimiento, valorando también el papel que se concede a las relaciones públicas en estos textos.
+
+Las relaciones públicas nacen en Estados Unidos en la segunda mitad del siglo XIX, ante la necesidad de las grandes compañías de luchar contra los ataques de la prensa. Esta actividad defensiva, realizada por los agentes de prensa, evoluciona rápidamente gracias a las aportaciones de figuras como Ivy Lee, que a principios del siglo XX incide en la necesidad de que las relaciones con la prensa sean una actividad constante y proactiva. Si bien en principio se emplean los términos publicity o press agentry para hacer referencia a estas prácticas, Bernays (1923) define las funciones del “consultor de relaciones públicas” y esta expresión comienza a generalizarse desplazando a otros términos. 
+
+Poco a poco, estas incipientes relaciones públicas, además de desarrollarse en el ámbito profesional e incorporar nuevos públicos con los que trabajar, van consolidando un corpus teórico y académico. Así, en torno a la II Guerra Mundial, los teóricos intentan que la disciplina se distancie de otras como la propaganda y refuerzan la idea de que las relaciones públicas deben buscar el bien común y lograr el goodwill o buena voluntad del público, a través de actividades más complejas que las simples relaciones con los medios.
+
+Esta visión se amplía en la década de los 50 con la introducción de la teoría general de sistemas en las relaciones públicas. Cutlip y Center (1952) aluden a la necesidad de las organizaciones de adaptarse a las circunstancias de su entorno para sobrevivir y, en este contexto, las relaciones públicas son necesarias porque permiten entablar el proceso de negociación preciso para buscar el equilibrio entre los intereses privados de la organización y el interés público. Además, este planteamiento implica que las relaciones públicas han de ser un proceso bidireccional: la organización debe escuchar al público, porque sólo así puede actuar sobre las causas de conflicto y recuperar el equilibrio en el entorno.
+
+A través de esta evolución y gracias a las aportaciones realizadas desde el ámbito académico, las relaciones públicas van perdiendo su caracterización como conjunto de técnicas para convertirse en algo más complejo; en definitiva, la perspectiva sistémica constituye la base para el desarrollo de la llamada perspectiva directiva de las relaciones públicas (Huang, 2001). 
+
+A ello contribuyen especialmente Grunig y Hunt (1984) con su obra Managing Public Relations, en la que las relaciones públicas se conciben estratégicamente, como una herramienta de gestión fundamental, consolidando la idea de que deben ser una función directiva inseparable del resto de las funciones directivas de la organización. Desde este punto de vista, Grunig y Hunt definen las relaciones públicas como la dirección y gestión de la comunicación entre una organización y sus públicos. Esta idea, que continúa repitiéndose en numerosas definiciones, recuerda al concepto de dirección de comunicación y ha conducido al uso de esta expresión de forma abundante en la disciplina. De hecho, en 1992, Grunig editó un volumen bajo el título Excellence in Public Relations and Communication Management.
+
+Desde esta perspectiva, los horizontes de las relaciones públicas se amplían, incorporando nuevas funciones y nuevos conceptos, como la noción de stakeholder, que permite a la disciplina adaptarse a una realidad empresarial cada vez más compleja. De hecho, Grunig y Repper (1992: 124-125) describen un proceso de relaciones públicas de siete fases que comienza con la identificación o fase de los stakeholders, término que hace referencia a las personas o grupos que pueden afectar o ser afectados por las acciones de una organización. 
+Cabe destacar también que desde los años 90 se ha venido consolidando un nuevo paradigma de las relaciones públicas que prima la idea de relación por encima de la idea de comunicación. Desde este punto de vista, se entiende que las relaciones públicas consisten en la gestión de relaciones y que la comunicación es la herramienta para lograr este propósito.
+
+Sin embargo, aunque la disciplina de las relaciones públicas se consolida e innova en el ámbito norteamericano, la evolución en el ámbito europeo es más lenta (dada su incorporación más tardía) y aún lo es más en el contexto español, donde la dictadura frena la entrada de ideas que se manejan en el ámbito empresarial de otros países y donde los nuevos conceptos de la perspectiva directiva y las nuevas visiones de la disciplina no se incorporan al contexto académico hasta avanzados los años 90 (téngase en cuenta, por ejemplo, que hasta el año 2000 no se publica en castellano la obra Managing Public Relations).
+
+De este modo, en el momento en que se hace patente en el mundo empresarial la necesidad de una idea de comunicación más amplia y globalizadora próxima a la dirección, en España y en gran parte de Europa, las relaciones públicas continúan asociándose únicamente con las técnicas primigenias de la profesión. Esta visión incompleta de la disciplina, unida al desconocimiento generalizado del significado real del concepto por parte de la sociedad, lleva a los profesionales españoles y a muchos de sus colegas europeos a huir del término, buscando formas alternativas de hacer referencia a esas funciones directivas de gestión de la comunicación que plantean los teóricos de las relaciones públicas en Estados Unidos y que son una necesidad imperiosa en un mundo empresarial cada vez más complejo.
